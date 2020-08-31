@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "authorId": "2"
+  },
+  {
+    "id": "2",
+    "title": "For Whom the Bell Tolls",
+    "authorId": "1"
+  },
+  {
+    "id": "3",
+    "title": "The Old Man and the Sea",
+    "authorId": "1"
+  }
+]

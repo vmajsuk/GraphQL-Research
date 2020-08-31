@@ -1,0 +1,23 @@
+scalar ID
+
+type Query {
+  books: [Book!]!
+}
+
+type Book {
+  id: ID!
+  title: String!
+  author: Author!
+}
+
+type Author {
+  id: ID!
+  name: String!
+  awards: [Award!]!
+}
+
+type Award {
+  id: String!
+  title: String!
+  year: Int!
+}

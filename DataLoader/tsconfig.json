@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es2017",
+    "esModuleInterop": true,
+    "removeComments": true,
+    "declaration": false,
+    "incremental": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "baseUrl": "./"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

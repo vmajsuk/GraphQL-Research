@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "authorId": "2",
+    "title": "Pulitzer Prize for Fiction",
+    "year": 1961
+  },
+  {
+    "id": "2",
+    "authorId": "1",
+    "title": "Pulitzer Prize for Fiction",
+    "year": 1953
+  },
+  {
+    "id": "3",
+    "authorId": "1",
+    "title": "Nobel Prize in Literature",
+    "year": 1954
+  }
+]
